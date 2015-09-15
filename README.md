@@ -10,5 +10,7 @@ This is just *a test* of things and to **see** how it works. [link to the world.
 
 <div style="background-color: red; padding: 2em;">can we have html</div>
 
+<script>alert("foo")</script>
+
 <a href="google.com">bad links bad links</a>
 
