@@ -8,7 +8,7 @@ This is just *a test* of things and to **see** how it works. [link to the world.
 ![Image Alt](https://duckduckgo.com/assets/badges/logo_square.64.png)
 
 
-<div>can we have html</div>
+<div style="background-color: red; padding: 2em;">can we have html</div>
 
 <a href="google.com">bad links bad links</a>
 
